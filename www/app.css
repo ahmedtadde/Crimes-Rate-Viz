@@ -1,0 +1,61 @@
+h1, h2, h3 {
+    font-weight: 800;
+    font-family: 'Abel', sans-serif;
+    line-height: normal;
+    letter-spacing: normal;
+    text-align: left;
+}
+
+h1, h2 {
+    color: steelblue;
+}
+h2 {
+    font-size: 1.4em;
+}
+
+h3 {
+    font-size: 1.2em;
+    color: #999999;
+}
+
+
+label span, .selectize-dropdown, .selectize-input {
+  
+    font-size: 18px;
+    font-family: 'Abel', sans-serif;
+    line-height: normal;
+    letter-spacing: normal;
+    text-align: left;
+}
+
+label.control-label {
+    font-weight: 800;
+    font-size: 18px;
+    font-family: 'Abel', sans-serif;
+    line-height: normal;
+    letter-spacing: normal;
+    text-align: left;
+    color: #999999;
+}
+
+tfoot {
+    display: table-header-group;
+}
+
+table {
+    font-size: 18px;
+    font-family: 'Abel', sans-serif;
+    line-height: normal;
+    letter-spacing: normal;
+    text-align: left;
+}
+
+.text-small {
+  
+    font-size: 20px;
+    font-family: 'Abel', sans-serif;
+    line-height: normal;
+    letter-spacing: normal;
+    text-align: left;
+    
+}
