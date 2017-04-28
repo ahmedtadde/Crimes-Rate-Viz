@@ -1,12 +1,12 @@
 # =========================================================================
 # Load libraries and scripts
 # =========================================================================
-library(pacman)
-p_load(shiny)
-p_load(ggplot2)
-p_load(scales)
-p_load_gh("rstudio/DT")
-p_load("data.table")
+library(shiny)
+library(ggplot2)
+library(scales)
+library(dplyr)
+library(reshape2)
+library(DT)
 source("data/parser.R")
 
 

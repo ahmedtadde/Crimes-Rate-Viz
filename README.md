@@ -1,5 +1,5 @@
 # State Crime Rates Explorer
-<a href="http://shiny.vis.datanaut.io/StateCrimeRates/" target="_blank">Project link</a>
+<a href="" target="_blank">Project link</a>
 
 ------
 
@@ -34,6 +34,6 @@ Throughout the application, the user is empowered with selection widgets to zoom
 ------
 
 ## Resources
-- <a href="http://ahmedtadde.github.io/Datanaut" target="_blank">Homepage</a>
-- <a href="https://github.com/ahmedtadde/UCR-Viz" target="_blank">Github Project</a>
+- <a href="http://ahmedtadde.github.io/DataQuest" target="_blank">Homepage</a>
+- <a href="https://github.com/ahmedtadde/Crime-Rate-Viz" target="_blank">Github Project</a>
 - <a href="http://www.ucrdatatool.gov/Search/Crime/State/StatebyState.cfm" target="_blank">Uniform Crime Reporting (UCR)</a>

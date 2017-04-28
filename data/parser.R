@@ -1,8 +1,3 @@
-library(dplyr)
-library(reshape2)
-options(warn=-1)  # turn off unneccesary NON-EXISTING NA warnings
-
-
 # =========================================================================
 # function get_crime_data
 #

@@ -1,0 +1,11 @@
+name: ucrviz
+title: UCRViz
+account: ahmedtadde
+server: shinyapps.io
+appId: 176044
+bundleId: 807198
+url: https://ahmedtadde.shinyapps.io/ucrviz/
+when: 1493340735.23184
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: README.md
