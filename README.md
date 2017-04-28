@@ -1,5 +1,5 @@
 # State Crime Rates Explorer
-<a href="" target="_blank">Project link</a>
+<a href="https://ahmedtadde.shinyapps.io/ucrviz/" target="_blank">Project link</a>
 
 ------
 
